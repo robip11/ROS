@@ -1,0 +1,21 @@
+[0.348s] Invoking command in '/home/robi/feleves_ws/src/feleves': PYTHONPATH=/home/robi/feleves_ws/build/feleves/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robi/feleves_ws/install/feleves/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/feleves build --build-base /home/robi/feleves_ws/build/feleves/build install --record /home/robi/feleves_ws/build/feleves/install.log --single-version-externally-managed install_data
+[0.455s] running egg_info
+[0.455s] writing ../../build/feleves/feleves.egg-info/PKG-INFO
+[0.455s] writing dependency_links to ../../build/feleves/feleves.egg-info/dependency_links.txt
+[0.455s] writing entry points to ../../build/feleves/feleves.egg-info/entry_points.txt
+[0.455s] writing requirements to ../../build/feleves/feleves.egg-info/requires.txt
+[0.455s] writing top-level names to ../../build/feleves/feleves.egg-info/top_level.txt
+[0.456s] reading manifest file '../../build/feleves/feleves.egg-info/SOURCES.txt'
+[0.457s] writing manifest file '../../build/feleves/feleves.egg-info/SOURCES.txt'
+[0.457s] running build
+[0.457s] running build_py
+[0.457s] running install
+[0.457s] running install_lib
+[0.458s] running install_data
+[0.458s] running install_egg_info
+[0.459s] removing '/home/robi/feleves_ws/install/feleves/lib/python3.10/site-packages/feleves-0.0.0-py3.10.egg-info' (and everything under it)
+[0.459s] Copying ../../build/feleves/feleves.egg-info to /home/robi/feleves_ws/install/feleves/lib/python3.10/site-packages/feleves-0.0.0-py3.10.egg-info
+[0.460s] running install_scripts
+[0.472s] Installing controller script to /home/robi/feleves_ws/install/feleves/lib/feleves
+[0.472s] writing list of installed files to '/home/robi/feleves_ws/build/feleves/install.log'
+[0.485s] Invoked command in '/home/robi/feleves_ws/src/feleves' returned '0': PYTHONPATH=/home/robi/feleves_ws/build/feleves/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/robi/feleves_ws/install/feleves/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/feleves build --build-base /home/robi/feleves_ws/build/feleves/build install --record /home/robi/feleves_ws/build/feleves/install.log --single-version-externally-managed install_data
