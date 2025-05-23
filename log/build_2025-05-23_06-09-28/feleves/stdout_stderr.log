@@ -1,0 +1,22 @@
+running egg_info
+writing ../../build/feleves/feleves.egg-info/PKG-INFO
+writing dependency_links to ../../build/feleves/feleves.egg-info/dependency_links.txt
+writing entry points to ../../build/feleves/feleves.egg-info/entry_points.txt
+writing requirements to ../../build/feleves/feleves.egg-info/requires.txt
+writing top-level names to ../../build/feleves/feleves.egg-info/top_level.txt
+reading manifest file '../../build/feleves/feleves.egg-info/SOURCES.txt'
+writing manifest file '../../build/feleves/feleves.egg-info/SOURCES.txt'
+running build
+running build_py
+copying feleves/controller.py -> /home/robi/feleves_ws/build/feleves/build/lib/feleves
+running install
+running install_lib
+copying /home/robi/feleves_ws/build/feleves/build/lib/feleves/controller.py -> /home/robi/feleves_ws/install/feleves/lib/python3.10/site-packages/feleves
+byte-compiling /home/robi/feleves_ws/install/feleves/lib/python3.10/site-packages/feleves/controller.py to controller.cpython-310.pyc
+running install_data
+running install_egg_info
+removing '/home/robi/feleves_ws/install/feleves/lib/python3.10/site-packages/feleves-0.0.0-py3.10.egg-info' (and everything under it)
+Copying ../../build/feleves/feleves.egg-info to /home/robi/feleves_ws/install/feleves/lib/python3.10/site-packages/feleves-0.0.0-py3.10.egg-info
+running install_scripts
+Installing controller script to /home/robi/feleves_ws/install/feleves/lib/feleves
+writing list of installed files to '/home/robi/feleves_ws/build/feleves/install.log'
